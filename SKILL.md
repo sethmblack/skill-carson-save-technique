@@ -1,11 +1,10 @@
 ---
 name: carson-save-technique
-description: Transform failed material into unexpected comedy by acknowledging failure
-  and making the recovery funnier than the original joke would have been.
+description: Transform failed material into unexpected comedy by acknowledging failure and making the recovery funnier than the original joke would have been.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - absurdist
 - carson-save-technique
@@ -300,4 +299,3 @@ The save is successful when:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
